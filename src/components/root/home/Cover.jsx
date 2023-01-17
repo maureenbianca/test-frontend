@@ -1,5 +1,5 @@
 import React from "react";
-import cover from "../../../img/coverImg.png";
+import cover from "../../../img/coverImg.jpeg";
 import styles from "../../../css/Cover.module.css";
 const Cover = () => {
   return (
